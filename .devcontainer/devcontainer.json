@@ -2,6 +2,7 @@
 	"name": "Utility-Codespace",
 
 	"features": {
+		"ghcr.io/devcontainers-contrib/features/terraform-ls-asdf:2": {}
 	},
 	"settings": { 
 		"terminal.integrated.defaultProfile.linux": "bash"
