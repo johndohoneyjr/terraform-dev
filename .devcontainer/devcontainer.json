@@ -2,7 +2,9 @@
 	"name": "Utility-Codespace",
 
 	"features": {
-		"ghcr.io/devcontainers-contrib/features/terraform-ls-asdf:2": {}
+		"ghcr.io/devcontainers/features/azure-cli:1": {},
+		"ghcr.io/devcontainers-contrib/features/terraform-asdf:2": {},
+		"ghcr.io/frntn/devcontainers-features/postman:1": {}
 	},
 	"settings": { 
 		"terminal.integrated.defaultProfile.linux": "bash"
