@@ -1,0 +1,14 @@
+{
+	"name": "Utility-Codespace",
+
+	"features": {
+	},
+	"settings": { 
+		"terminal.integrated.defaultProfile.linux": "bash"
+	},
+		
+	"extensions": [
+		"hashicorp.terraform"
+	],
+
+}
